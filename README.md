@@ -1,5 +1,11 @@
 #Image Slider With Swipe
 
+## 使用心得
+  1. 簡單的 HTML 直接可以使用於圖片輪播，行動裝置也可以
+  2. 若有使用 font-awesome 等會異動到 font 的 css 語法，要稍微注意
+  3. 第一次使用，大量修改的地方是 css 的部分
+
+
 ##About
 
 This is a tiny jQuery plugin that represents image slider (carousel). Slider supports mouse and touch inputs to slide through images. Also the slider supports HTML content.
